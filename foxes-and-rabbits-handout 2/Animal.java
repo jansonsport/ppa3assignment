@@ -4,6 +4,7 @@
  *
  * @author David J. Barnes and Michael Kölling
  *hello
+ *die 
  * @version 7.0
  */
 public abstract class Animal
