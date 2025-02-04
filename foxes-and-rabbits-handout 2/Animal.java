@@ -3,6 +3,7 @@
  * Common elements of foxes and rabbits.
  *
  * @author David J. Barnes and Michael Kölling
+ *hello
  * @version 7.0
  */
 public abstract class Animal
